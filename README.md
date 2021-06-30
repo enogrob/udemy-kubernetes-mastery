@@ -11,40 +11,40 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn the latest `Kubernetes` features (1.16) and plugins while practicing DevOps workflows, from a container expert.
 
-[Homepage](https://www.udemy.com/course/kubernetesmastery/learn/lecture/17069898#overview)
+[Homepage](https://www.udemy.com/course/kubernetesmastery/learn/)
 
 ## Topics
 ```
 Section 1: Introduction 0 / 3|4min
-[ ] 1. How To Take This Course 2min
-[ ] 2. Course Chat: 35k Students Learning Containers 1min
-[ ] 3. YouTube Live Q&A with Bret 1min
+[x] 1. How To Take This Course 2min
+[x] 2. Course Chat: 35k Students Learning Containers 1min
+[x] 3. YouTube Live Q&A with Bret 1min
 
 Section 2: The What and Why of Kubernetes 0 / 3|15min
-[ ] 4. What and Why of Kubernetes 5min
-[ ] 5. Kubernetes Distributions 4min
-[ ] 6. Kubernetes Use Cases 6min
+[x] 4. What and Why of Kubernetes 5min
+[x] 5. Kubernetes Distributions 4min
+[x] 6. Kubernetes Use Cases 6min
 
 Section 3: Kubernetes Architecture 0 / 5|21min
-[ ] 7. Kubernetes Architecture 6min
-[ ] 8. Kubernetes Physical Architecture 6min
-[ ] 9. Container Runtimes for Kubernetes 4min
-[ ] 10. The API and The Pod 4min
+[x] 7. Kubernetes Architecture 6min
+[x] 8. Kubernetes Physical Architecture 6min
+[x] 9. Container Runtimes for Kubernetes 4min
+[x] 10. The API and The Pod 4min
 
-[ ] Quiz 1: Quiz 1
+[x] Quiz 1: Quiz 1
 
 Section 4: Installing Kubernetes for Learning 0 / 8|30min
-[ ] 11. Installing Kubernetes for Learning 2min
+[x] 11. Installing Kubernetes for Learning 2min
 [ ] 12. Kubernetes with Docker Desktop (Windows 10 & macOS) 3min
 [ ] 13. Kubernetes with Minikube (VirtualBox) 10min
-[ ] 14. Kubernetes with MicroK8s (Linux) 7min
-[ ] 15. Install Tips for minikube and MicroK8s 1min
-[ ] 16. Kubernetes in Your Browser 3min
-[ ] 17. "Shpod" Course Container 3min
-[ ] 18. Shpod Tips and Tricks 1min
+[x] 14. Kubernetes with MicroK8s (Linux) 7min
+[x] 15. Install Tips for minikube and MicroK8s 1min
+[x] 16. Kubernetes in Your Browser 3min
+[x] 17. "Shpod" Course Container 3min
+[x] 18. Shpod Tips and Tricks 1min
 
 Section 5: First Contact with Kubectl 0 / 7|27min
-[ ] 19. First Contact with Kubectl 7min
+[x] 19. First Contact with Kubectl 7min
 [ ] 20. Kubectl Describe 3min
 [ ] 21. Exploring Resource Types 6min
 [ ] 22. Kubectl Get 2min
