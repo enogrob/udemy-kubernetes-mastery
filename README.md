@@ -12,8 +12,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Learn the latest `Kubernetes` features (1.16) and plugins while practicing DevOps workflows, from a container expert.
 
 [Homepage](https://www.udemy.com/course/kubernetesmastery/learn/)
-
-## Topics
+/home/rnogueira/Today/project-linux-recovers
 ```
 Section 1: Introduction 0 / 3|4min
 [x] 1. How To Take This Course 2min
@@ -45,28 +44,28 @@ Section 4: Installing Kubernetes for Learning 0 / 8|30min
 
 Section 5: First Contact with Kubectl 0 / 7|27min
 [x] 19. First Contact with Kubectl 7min
-[ ] 20. Kubectl Describe 3min
-[ ] 21. Exploring Resource Types 6min
-[ ] 22. Kubectl Get 2min
-[ ] 23. Kubectl Namespace Basics 5min
-[ ] 24. Kubernetes Newer Namespaces 3min
+[x] 20. Kubectl Describe 3min
+[x] 21. Exploring Resource Types 6min
+[x] 22. Kubectl Get 2min
+[x] 23. Kubectl Namespace Basics 5min
+[x] 24. Kubernetes Newer Namespaces 3min
 
-[ ] Quiz 2: Quiz 2
+[x] Quiz 2: Quiz 2
 
 Section 6: Your First Deployment 0 / 4|17min
-[ ] 25. Your First Deployment with Kubectl 7min
-[ ] 26. 1.18 Changes to Kubectl Run 1min
-[ ] 27. Kubectl Logs 5min
-[ ] 28. Deleting Pods and Watching The Effects 4min
+[x] 25. Your First Deployment with Kubectl 7min
+[x] 26. 1.18 Changes to Kubectl Run 1min
+[x] 27. Kubectl Logs 5min
+[x] 28. Deleting Pods and Watching The Effects 4min
 
 Section 7: Cron Jobs and Resource Creation Options 0 / 7|19min
-[ ] 29. Kubectl Run CronJob 6min
-[ ] 30. Resource Creation and Run Changes 3min
-[ ] 31. Streaming Logs of Multiple Pods 6min
-[ ] 32. Better CLI Logs with Stern 3min
-[ ] 33. Cleanup Pingpong and CronJob 1min
+[x] 29. Kubectl Run CronJob 6min
+[x] 30. Resource Creation and Run Changes 3min
+[x] 31. Streaming Logs of Multiple Pods 6min
+[x] 32. Better CLI Logs with Stern 3min
+[x] 33. Cleanup Pingpong and CronJob 1min
 
-[ ] Quiz 3: Quiz 3
+[x] Quiz 3: Quiz 3
 
 [ ] Assignment 1: First Steps
 
